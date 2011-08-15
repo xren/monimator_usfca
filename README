@@ -16,7 +16,8 @@ Sun_morning:	usun1				dsun1
 Sun_afternoon:	usun2				dsun2
 
 3. Example
-Here I am going to sign up the lab monitor with this script by sending request every one seconds with my username "john" and password "yoface". I'm interested in working downstairs every Friday night.
-python monimator_usfca.py -i 1 - u john -p yoface -f dfri
+Here I am going to sign up by sending requests every one second with username "john" and password "yoface". And I'm interested in working downstairs every Friday night.
+
+python monimator_usfca.py -i 1 -u john -p yoface -f dfri
 
 Let's roll!
