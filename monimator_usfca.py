@@ -10,7 +10,7 @@ from datetime import datetime
 
 # https://www.cs.usfca.edu/~afedosov/labmon/index.cgi?s=umon
 url = '/~afedosov/labmon/index.cgi?s='
-ending_time = datetime(2011,8,15,12,05,00)
+ending_time = datetime(2012,1,16,12,05,00)
 
 parser = optparse.OptionParser()
 parser.add_option('-i','--fetch_interval',dest='fetch_interval',default=1)
