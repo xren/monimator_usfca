@@ -6,11 +6,11 @@
 2. Slot match up  
 
 				Up:Harney 530/535		Down: Harney 235
-		Monday:		umon				NA
-		TuesDay:	utue				dtue
-		Wednesday:	used				NA
-		Thursday:	uthu				dthu
-		Friday:		ufri				dfri
+		Monday:			umon				NA
+		TuesDay:		utue				dtue
+		Wednesday:		used				NA
+		Thursday:		uthu				dthu
+		Friday:			ufri				dfri
 		Sat_morning:	usat1				dsat1
 		Sat_afternoon:	usat2				dsat2
 		Sun_morning:	usun1				dsun1
